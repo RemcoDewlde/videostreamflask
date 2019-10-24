@@ -1,4 +1,4 @@
-#VideoStream with flask
+# VideoStream with flask
 ## Prerequisites
 * python 3
 * pip3
