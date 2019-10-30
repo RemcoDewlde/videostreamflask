@@ -2,3 +2,5 @@ opencv-python
 youtube_dl
 pafy
 flask
+coverage
+
