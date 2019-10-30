@@ -1,4 +1,5 @@
-# VideoStream with flask
+# VideoStream with flask [![Actions Status](https://xxx.execute-api.us-west-2.amazonaws.com/production/badge/RemcoDewlde/videostreamflask)](https://xxx.execute-api.us-west-2.amazonaws.com/production/results/RemcoDewlde/videostreamflask)
+
 ## Prerequisites
 * python 3
 * pip3
