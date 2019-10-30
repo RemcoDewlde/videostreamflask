@@ -1,4 +1,4 @@
-# VideoStream with flask  ![](https://github.com/RemcoDewlde/videostreamflask/workflows/pythonapp/badge.svg)
+# VideoStream with flask  ![](https://github.com/RemcoDewlde/videostreamflask/workflows/Python%20application/badge.svg)
 
 ## Prerequisites
 * python 3
