@@ -1,5 +1,12 @@
 from flask import Flask, render_template, Response
 from camera import VideoCamera
+import args
+import sys
+
+
+parser = args.parse_args(sys.argv[1:])
+vid = parser.vid
+
 
 app = Flask(__name__)
 
@@ -18,7 +25,7 @@ def gen(camera):
 
 @app.route('/video_feed')
 def video_feed():
-    return Response(gen(VideoCamera()),
+    return Response(gen(VideoCamera(vid)),
                     mimetype='multipart/x-mixed-replace; boundary=frame')
 
 
