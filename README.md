@@ -18,3 +18,17 @@ For starting the server use the following command:
 
     python main.py
 
+##Flags:
+
+**help:** For a help screen use
+
+```bash
+python main.py -h
+
+```
+**Vid:** If you would like to use a different video from youtube use the ``--vid`` flag. 
+
+```bash
+python main.py --vid=dQw4w9WgXcQ
+
+```
