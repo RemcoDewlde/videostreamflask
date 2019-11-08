@@ -18,7 +18,7 @@ For starting the server use the following command:
 
     python main.py
 
-##Flags:
+## Flags:
 
 **help:** For a help screen use
 
