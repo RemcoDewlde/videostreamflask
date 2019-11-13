@@ -1,4 +1,4 @@
-![](https://github.com/RemcoDewlde/videostreamflask/workflows/Python%20application%20tests/badge.svg)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+![](https://github.com/RemcoDewlde/videostreamflask/workflows/Python%20application%20tests/badge.svg)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Github all releases](https://img.shields.io/github/downloads/RemcoDewlde/videostreamflask/total.svg)](https://GitHub.com/RemcoDewlde/videostreamflask/releases/)
 
 
 # VideoStream with flask  
